@@ -489,6 +489,25 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 4638916330578484852, guid: c0cec48bdf8904778a16461663d48d2d, type: 3}
   m_PrefabInstance: {fileID: 1606420344}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &773730684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 773730683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca8b68f205b345d39992965d82fca7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tilePrefabs:
+  - {fileID: 4438810280116196985, guid: 2cde39a0ec46a0347a613bfd0d0a5dc2, type: 3}
+  - {fileID: 4579083043647085763, guid: af450f07a7c1b0940b2db3083fadbeb6, type: 3}
+  - {fileID: 2185749594375242155, guid: efe1f9de110b62f4993cc6ed4604b253, type: 3}
+  - {fileID: 1999849133183628411, guid: 0456a88930db3ec4fbcb93bd33f0c801, type: 3}
+  - {fileID: 5189582394346765498, guid: 14208c6b63067fd459f771ab4784aa73, type: 3}
+  emptyTile: {fileID: 4438810280116196985, guid: 2cde39a0ec46a0347a613bfd0d0a5dc2, type: 3}
 --- !u!114 &773730686
 MonoBehaviour:
   m_ObjectHideFlags: 0
